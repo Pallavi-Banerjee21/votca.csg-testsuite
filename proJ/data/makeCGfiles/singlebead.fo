@@ -1,0 +1,8 @@
+
+			<cg_bead>
+				<name>ANUMBER</name>
+				<type>A</type>
+				<symmetry>3</symmetry>
+				<mapping>A</mapping>
+				<beads>NUMBER:Protein:C2 NUMBER:Protein:C5 NUMBER:Protein:S1 NUMBER:Protein:C3 NUMBER:Protein:C4 NUMBER:Protein:H3</beads>
+			</cg_bead>
